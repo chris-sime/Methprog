@@ -9,9 +9,8 @@ import javax.swing.JPanel;
 
 public class Entries extends javax.swing.JFrame {
     SearchEntries se = new SearchEntries();
-    /**
-     * Creates new form Entries
-     */
+    
+    
     public Entries() {
         initComponents();
         GetAllEntries();
