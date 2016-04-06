@@ -41,7 +41,7 @@ public class Entries extends javax.swing.JFrame {
         jSlider1 = new javax.swing.JSlider();
         jPanelEntries = new javax.swing.JPanel();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setResizable(false);
 
         jPanelSearchTools.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
