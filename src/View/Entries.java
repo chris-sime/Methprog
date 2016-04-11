@@ -1,3 +1,4 @@
+
 package View;
 import Controler.SearchEntries;
 import Model.Entry;
@@ -237,4 +238,3 @@ public class Entries extends javax.swing.JFrame {
     }
     
 }
-    
